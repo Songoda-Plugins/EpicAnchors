@@ -7,7 +7,7 @@
     <parent>
         <groupId>com.craftaro</groupId>
         <artifactId>EpicAnchors-Parent</artifactId>
-        <version>3.3.0</version>
+        <version>3.4.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>EpicAnchors-API</artifactId>
