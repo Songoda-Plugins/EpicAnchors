@@ -4,7 +4,7 @@
     <groupId>com.craftaro</groupId>
     <artifactId>EpicAnchors-Parent</artifactId>
     <packaging>pom</packaging>
-    <version>3.5.0</version>
+    <version>3.6.0</version>
     <!-- Run 'mvn versions:set -DgenerateBackupPoms=false -DnewVersion=X.Y.Z-DEV' to update version recursively -->
 
     <modules>
