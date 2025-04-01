@@ -34,11 +34,11 @@ create a thread over on [our Discord server][Discord invite].
 
 
 [Plugin page]: https://songoda.com/product/3
-[Plugin wiki]: https://songoda.notion.site/EpicAnchors-43f87da12f1c4e799d270a913e941d0d
+[Plugin wiki]: https://wiki.songoda.com/EpicAnchors-1130f108970281be8e9ce4adb9fdd516
 [Discord invite]: https://discord.gg/7TXM8xr2Ng
 
 [Discord shield]: https://img.shields.io/discord/1214289374506917889?color=5865F2&label=Discord&logo=discord&logoColor=5865F2
-[Latest version shield]: https://img.shields.io/badge/dynamic/xml?style=flat&color=blue&logo=github&logoColor=white&label=Latest&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcraftaro%2FEpicAnchors%2Fmaster%2Fpom.xml&query=%2F*%5Blocal-name()%3D'project'%5D%2F*%5Blocal-name()%3D'version'%5D
+[Latest version shield]: https://img.shields.io/badge/dynamic/xml?style=flat&color=blue&logo=github&logoColor=white&label=Latest&url=https%3A%2F%2Fraw.githubusercontent.com%2FSongoda-Plugins%2FEpicAnchors%2Fmaster%2Fpom.xml&query=%2F*%5Blocal-name()%3D'project'%5D%2F*%5Blocal-name()%3D'version'%5D
 
 [bStats page]: https://bstats.org/plugin/bukkit/EpicAnchors/4816
 [bStats shield]: https://img.shields.io/bstats/servers/4816?label=Servers
