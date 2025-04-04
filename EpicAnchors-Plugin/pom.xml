@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.songoda</groupId>
         <artifactId>EpicAnchors-Parent</artifactId>
-        <version>3.6.0</version>
+        <version>4.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>EpicAnchors-Plugin</artifactId>
