@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.craftaro</groupId>
+    <groupId>com.songoda</groupId>
     <artifactId>EpicAnchors-Parent</artifactId>
     <packaging>pom</packaging>
     <version>3.6.0</version>
@@ -14,10 +14,10 @@
 
     <name>EpicAnchors</name>
     <description>Allow your players to keep chunks loaded for a limited amount of time for a cost.</description>
-    <url>https://craftaro.com/marketplace/product/31</url>
+    <url>https://songoda.com/product/epicanchors-3</url>
 
     <properties>
-        <craftaro.coreVersion>3.8.0-SNAPSHOT</craftaro.coreVersion>
+        <songoda.coreVersion>3.9.0-SNAPSHOT</songoda.coreVersion>
 
         <maven.compiler.release>8</maven.compiler.release>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -30,13 +30,13 @@
     </properties>
 
     <issueManagement>
-        <url>https://discord.gg/craftaro</url>
+        <url>https://discord.gg/7TXM8xr2Ng</url>
         <system>Discord server</system>
     </issueManagement>
 
     <scm>
-        <url>https://github.com/craftaro/EpicAnchors</url>
-        <connection>scm:git:git://github.com/craftaro/EpicAnchors.git</connection>
+        <url>https://github.com/Songoda-Plugins/EpicAnchors</url>
+        <connection>scm:git:git://github.com/Songoda-Plugins/EpicAnchors.git</connection>
     </scm>
 
     <repositories>
