@@ -1,5 +1,6 @@
 package com.songoda.epicanchors.utils;
 
+import com.songoda.core.compatibility.ServerVersion;
 import org.bukkit.Chunk;
 import org.bukkit.World;
 import org.bukkit.plugin.Plugin;
@@ -33,9 +34,12 @@ public class WorldUtils {
     }
 
     public static int getRandomTickSpeed(World world) {
+        String ruleName = ServerVersion.isServerVersionAtLeast(ServerVersion.V1_21_11)
+            ? "randomtickspeed"
+            : "randomTickSpeed";
         try {
-            return Integer.parseInt(world.getGameRuleValue("randomTickSpeed"));
-        } catch (NumberFormatException ignore) {
+            return Integer.parseInt(world.getGameRuleValue(ruleName));
+        } catch (IllegalArgumentException ignore) {
             return 3;
         }
     }
