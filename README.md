@@ -1,11 +1,24 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 <img src="docs/Logo.png" width="128px">
+</div>
 
 # EpicAnchors
-**Allow your players to keep chunks loaded for a limited amount of time for a cost.**
-**Integrates with EpicSpawners to keep your mobs spawning even when you’re offline.**
 
+> **[Official EpicAnchors website][Plugin page]**
+>
+> For the latest downloads, supported Minecraft versions, documentation,
+> installation instructions, compatibility information, updates, and support,
+> visit the Songoda Reborn page above.
+
+EpicAnchors is a Minecraft chunk-loading server plugin developed and maintained by
+**Songoda Reborn**.
+
+It lets players keep selected chunks loaded for configurable periods and costs, and
+integrates with EpicSpawners so configured mobs can continue spawning while players are
+offline.
+
+<div align="center">
 
 [![Discord][Discord shield]][Discord invite]
 <br>
@@ -14,27 +27,23 @@
 </div>
 
 
-## Download (Marketplace)
-You can visit [our marketplace][Plugin page] to download EpicAnchors as well as take a
-look at many other fantastic plugins which are sure to catch your eye.
+## Downloads
+Downloads and supported Minecraft versions are available from the
+[Songoda Reborn plugin page][Plugin page].
 
 ## Documentation
-You can find all the information about EpicAnchors, including dependencies, commands, permissions and incompatible
-plugins on [our wiki][Plugin wiki].
-
-Feel free to also contribute to the wiki as a way to help others in the community with using the plugin.
+The [EpicAnchors wiki][Plugin wiki] is maintained by Songoda Reborn and covers
+installation, configuration, commands, permissions, dependencies, and compatibility.
 
 ## Support
-If you encounter any issues while using the plugin, feel free to contact us on
-[our Discord server][Discord invite].
+For help with EpicAnchors, join our [Discord server][Discord invite].
 
 ## Suggestions
-For suggestions about features you think should be added to the plugin to increase its functionality, feel free to
-create a thread over on [our Discord server][Discord invite].
+Share feature suggestions and feedback through our [Discord server][Discord invite].
 
 
-[Plugin page]: https://songoda.com/product/3
-[Plugin wiki]: https://songoda.notion.site/EpicAnchors-43f87da12f1c4e799d270a913e941d0d
+[Plugin page]: https://songoda-reborn.com/plugins/epicanhors
+[Plugin wiki]: https://songoda-reborn.com/plugins/epicanhors/wiki
 [Discord invite]: https://discord.gg/vtuJUfebrd
 
 [Discord shield]: https://img.shields.io/discord/1214289374506917889?color=5865F2&label=Discord&logo=discord&logoColor=5865F2
